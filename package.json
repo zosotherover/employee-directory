@@ -9,7 +9,11 @@
     "bootstrap": "^4.5.2",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-scripts": "3.4.1"
+    "react-scripts": "3.4.1",
+    "engines": {
+      "node": "12.x",
+      "npm": "6.x"
+    },
   },
   "scripts": {
     "start": "react-scripts start",
